@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:02:38 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Thu Jul 16 20:51:59 2020
+# Process ID: 17211
+# Current directory: /root/projects/PvS-FE/src/contrib-projects/sume-sdnet-switch/projects/l2_router_firewall_int/simple_sume_switch/hw
+# Command line: vivado -mode tcl -source tcl/export_hardware.tcl -tclargs simple_sume_switch
+# Log file: /root/projects/PvS-FE/src/contrib-projects/sume-sdnet-switch/projects/l2_router_firewall_int/simple_sume_switch/hw/vivado.log
+# Journal file: /root/projects/PvS-FE/src/contrib-projects/sume-sdnet-switch/projects/l2_router_firewall_int/simple_sume_switch/hw/vivado.jou
+#-----------------------------------------------------------
+source tcl/export_hardware.tcl
